@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+uploads/*
+!uploads/.gitkeep
+frames/*
+!frames/.gitkeep
+reports/*
+!reports/.gitkeep
+models/*
+!models/.gitkeep
+.env
+.pytest_cache/
